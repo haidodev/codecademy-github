@@ -1,3 +1,5 @@
+package hust.soict.globalict.aims.cart;
+import hust.soict.globalict.aims.disc.*;
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 50;
     private DigitalVideoDisc[] itemsOrdered = new DigitalVideoDisc[MAX_NUMBERS_ORDERED];
